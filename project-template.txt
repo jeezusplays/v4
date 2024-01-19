@@ -1,0 +1,12 @@
+---
+date: 'YYYY-MM-DD'
+title: ''
+github: ''
+external: ''
+tech:
+  - 
+company: ''
+showInProjects: false
+---
+
+About...
