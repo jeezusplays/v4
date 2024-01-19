@@ -1,6 +1,6 @@
 ---
 date: '2023-05-01'
-title: 'Engineer Intern'
+title: 'Engineer'
 company: 'SUSS'
 location: 'Singapore'
 range: 'May 2023 - Present'
